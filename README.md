@@ -1,7 +1,7 @@
 # Kice Data
 
 data reformation on KICE datum.
-you can also get pdfs from (KICE)[https://www.suneung.re.kr/boardCnts/list.do?boardID=1500234&m=0403&s=suneung&searchStr=]
+you can also get pdfs from [KICE](https://www.suneung.re.kr/boardCnts/list.do?boardID=1500234&m=0403&s=suneung&searchStr=)
 
 ## Data explanation
 
